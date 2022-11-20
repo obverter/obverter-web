@@ -3,7 +3,7 @@ title: Obverter
 subtitle: Chasing entropy
 author: Ben Tyler Elliott
 simple_search: http://google.com/search
-description: Data-driven words about not-depressing things, mostly.
+description: A Jekyll theme for content-rich sites
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -18,7 +18,7 @@ page:
   template: _page.txt
   extension: md
 hi:
-  template: _post.txt
+  template: _page.txt
   extension: md
 editor: gvim
 git:
