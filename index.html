@@ -3,14 +3,14 @@ layout: page
 title: Obverter
 # Note that this index page uses a full-width layout!
 ---
-<img style="float:left; margin:0 2rem 0 10%" src="assets/img/about-ben-photo.jpg" alt="Ben Tyler Elliott" width="25%">
+<img class="home-image" src="assets/img/about-ben-photo.jpg" alt="Ben Tyler Elliott">
 
 <section style="margin:auto auto 15% 25%; padding:10% 0 0 0;">
 
   <!-- <div style="margin:0 0 0 20%; padding:0; block:inline">{% marginfigure 'mf-id-1' 'assets/img/rhino.png' 'F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” *Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice* (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s *Visual Explanations*.'  %}</div> -->
-<h1 class="hello sans">Obverter is Ben Tyler Elliott,</h1>
-<h1 class="hello sans">who is a writer that</h1>
-<h1 class="hello sans">collects hobbies.</h1>
+<h1 class="hello sans">Obverter is Ben&nbsp;Tyler&nbsp;Elliott,<br> who is a writer that<br>collects hobbies.</h1>
+<!-- <h1 class="hello sans">who is a writer that</h1>
+<h1 class="hello sans">collects hobbies.</h1> -->
 </section>
 
 <section>
@@ -19,11 +19,16 @@ title: Obverter
     {% for post in site.posts %}
     <li class="listing">
       <hr class="slender">
-      <img style="float:right; margin:0 2rem 0 0" src="{{ post.image }}" alt="{{ post.image }}" width="25%">
-      <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
-      <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
-      <div>{{ post.excerpt }}</div>
+      <!-- <img style="float:right; margin:0 2rem 0 1%; padding 0 0 0 2rem;" src="{{ post.image }}" alt="{{ post.image }}" width="20%" class="responsive"> -->
+      <div>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <h3 class="contrast responsive">{{ post.title }}</h3>
+          <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span> <br />
+        </a>
+        <div class="roll-image"><img src="{{ post.image }}" alt="{{ post.image }}"></div>
+        <div>{{ post.excerpt }}</div>
+      </div>
     </li>
     {% endfor %}
   </ul>
-  </section>
+</section>

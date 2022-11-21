@@ -155,6 +155,14 @@ p .subtitle { font-style: italic;
              display: block;
              line-height: 1.08888888888889; }
 
+.topic-list {margin-top: 0.5rem;
+             margin-bottom: 0.2177rem;
+             font-size: 1.8rem;
+             font-style: normal;
+             font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+             display: block;
+             line-height: 1.08888888888889; }
+
 
 p, ol, ul { font-size: 1.4rem; }
 
@@ -476,10 +484,10 @@ h1.hello{
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   line-height: 2.1rem;
   text-align: left;
-  margin: auto auto auto 15%;
+  margin: auto auto auto 10%;
 }
 
 h1.content-listing-header{
@@ -489,6 +497,7 @@ h1.content-listing-header{
   letter-spacing: 0.2rem;
   font-size: 1.2rem;
   margin: 10%, 0, 0, 0;
+  display: block;
 }
 
 li.listing hr{
@@ -625,7 +634,11 @@ hr.slender {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-mail3:before {
+.icon-mail4:before {
+  content: "\ea85";
+}
+
+.icon-mail4:before {
   content: "\ea85";
 }
 .icon-amazon:before {
@@ -691,6 +704,58 @@ hr.slender {
 /*-- End of Icomoon icon font section --*/
 
 .home-image{
-  //css that makes a responsive home image that appears alongside the first h1 heading on the home page and is in the same container as the h1 and is 20% of the width of the container and is aligned on the right side of the container
+  float: left;
+  margin: 0 2rem 0 10%;
+  max-width: 25%;
+  @media (min-width: 1081px) {
+      .roll-image {
+        min-height: 10%;
+        min-width: 10%;
+        max-width: 25%;
+        float: left;
+        // max-height: 250px;
+      }
+    }
+
+    @media (max-width: 1080px) {
+      img.left {
+      width: 100%;
+        float: none;
+        margin: auto auto;
+        border-left: 0;
+      }
+}
+
+.blogroll{
+
+}
+
+.roll-image {
+  margin: 0 0 0rem 1rem;
+  padding: 0 0 0rem 1rem;
+  border: 0;
+  border-left: 1px solid #000;
+  display: block;
   float: right;
+
+  // @media (min-width: 881px) {
+  //     min-height: 10%;
+  //     min-width: 10%;
+  //     max-width: 25%;
+  //     float: right;
+  //     max-height: 250px;
+  //   }
+  // }
+
+  @media (max-width: 880px) {
+      float: none;
+      margin: 0 auto;
+    }
+
+    img.right {
+      width: 100%;
+      float: none;
+      margin: auto auto;
+    }
+  }
 }
