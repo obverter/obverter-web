@@ -22,7 +22,7 @@ And because I enjoy collecting hobbies.
 
 What I didn't realize at the time (whether it be years, months, or minutes ago) was just how hard it would be. I know that drawing is one of those things that you can't just "learn" overnight; it takes time, practice, and a lot of patience. But now, just as at the precepices of my previous decisions, I find myself determined, resolute, and mostly unwavering in the face of certain failure.{% sidenote
 'one'
-'And by "mostly unwavering," I mean "I'm still not sure if I'm going to keep doing this."'
+'And by "mostly unwavering," I mean "I&#39;m still not sure if I&#39;m going to keep doing this."'
 %}
 
 ## The First Step is Always the Hardest
