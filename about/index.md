@@ -10,7 +10,17 @@ I'm an indiscriminate connoisseur of the Interesting, and I tend to write data-d
 
 That is, whenever I'm not producing content about my misadventures in creating content, or my tribulations and triumphs re: making physical stuff.
 
+For the last ten years I've been running a boutique environmental engineering firm, which specializes in facility design, process analysis, and issues that have the potential to instantaneously transform an entire building into smithereens.
+
+I've worked with clients of every size, including three-letter agencies, Fortune 1 companies, garage-sized startups, Mom-and-Pop gas stations, and manufacturing facilities that were old when the world was young.
+
+We've even worked with (and sprinted away from) companies whose executives have, for example, gone on to purchase large social media platforms, or who have committed wire fraud and have been sent to prison. How fun!
+
+I'm a big fan of baseball history, weird books, and the Oxford Comma.
+
 I live in the Bay Area with my dog and his family.
+
+[Email me an email.](mailto:ben@obverter.com)
 
 <!-- The *Tufte-Jekyll* theme is a natural extension of the work done by [Edward Tufte](https://github.com/edwardtufte/tufte-css) and his collaborators on Github who created a CSS file that allows web writers to use the same simple and elegant style employed in his published materials.
 

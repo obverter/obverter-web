@@ -1,6 +1,6 @@
 # baseurl: https://www.obverter.com
 title: Obverter
-subtitle: Chasing entropy
+subtitle: Chasing entropy.
 author: Ben Tyler Elliott
 simple_search: http://google.com/search
 description: Data-driven words about not-depressing things, mostly.
@@ -17,7 +17,7 @@ post:
 page:
   template: _page.txt
   extension: md
-hi:
+topics:
   template: _post.txt
   extension: md
 editor: gvim
@@ -27,4 +27,4 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: ~/Git/clayh53.github.com/
+  destination: ~/Git/obverter.github.com/

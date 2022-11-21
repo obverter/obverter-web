@@ -74,7 +74,7 @@ p > a, cite > a, span > a { @if $link-style == underline
       background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
       background-repeat: no-repeat, no-repeat, repeat-x;
       text-shadow: 0.03em 0 $bg-color, -0.03em 0 $bg-color, 0 0.03em $bg-color, 0 -0.03em $bg-color, 0.06em 0 $bg-color, -0.06em 0 $bg-color, 0.09em 0 $bg-color, -0.09em 0 $bg-color, 0.12em 0 $bg-color, -0.12em 0 $bg-color, 0.15em 0 $bg-color, -0.15em 0 $bg-color;
-      background-position: 0% 93%, 100% 93%, 0% 93%; 
+      background-position: 0% 93%, 100% 93%, 0% 93%;
     }
     @else
     {
@@ -122,6 +122,15 @@ p .subtitle { font-style: italic;
              margin-top: 2.1777777777777778rem;
              margin-bottom: 2.1777777777777778rem;
              font-size: 1.8rem;
+             display: block;
+             line-height: 1.08888888888889; }
+
+.topic { font-variant: small-caps;
+             margin-top: 2.1777777777777778rem;
+             margin-bottom: 0.2177rem;
+             font-size: 1.8rem;
+             font-style: normal;
+             font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
              display: block;
              line-height: 1.08888888888889; }
 
@@ -190,7 +199,7 @@ table, table.booktabs { width: auto;  //making booktabs style tables the unstyle
 .booktabs th, th { border-bottom: 1px solid $border-color;
                padding: 0.65ex 0.5em 0.4ex 0.5em;
                font-weight: normal;
-               //text-align: center; 
+               //text-align: center;
                }
 
 th, td{ font-size: 1.2rem;
@@ -204,7 +213,7 @@ th, td{ font-size: 1.2rem;
 
 .booktabs td, td {  padding-left: 0.5em;
                     padding-right: 0.5em;
-                    text-align: left; }            
+                    text-align: left; }
 
 .booktabs caption, caption { font-size: 90%;
                     text-align: left;
@@ -359,7 +368,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                                              position: relative; }
                             div.table-wrapper, table, table.booktabs { width: 85%; }
                             div.table-wrapper { border-right: 1px solid #efefef; }
-                            img { max-width: 100%; } 
+                            img { max-width: 100%; }
                             figcaption.maincolumn-figure, figure.fullwidth figcaption { float:none; text-align: center;}
                             figure.fullwidth figcaption { margin-left: 0; }
                           }
@@ -377,8 +386,10 @@ header > nav.group, body footer {
   padding-top: 2rem;
 }
 
-nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
-nav.group a.active:after{ content:"\000a0\0003e" ;}
+// nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
+// nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
+nav.group a.active:before{ content:"\0276f" ;}
+// nav.group a.active:after{ content:"\029e9\0003e" ;}
 
 header > nav  a{
   font-size: 1.2rem;
@@ -392,8 +403,8 @@ header > nav  a{
   float: left;
   margin-top: 0;
   margin-bottom: 0;
-  padding-right: 2rem;
-  //margin-left: 1rem;
+  padding-right: 1rem;
+  margin-left: 1rem;
   vertical-align: baseline;
 }
 header > nav a img{
@@ -439,8 +450,20 @@ body.full-width, .content-listing, ul.content-listing li.listing{ width: 90%;
 }
 
 
+h1.hello{
+  font-style: bold;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-size: 1.8rem;
+  line-height: 2.1rem;
+  text-align: left;
+  margin: auto auto auto 15%;
+}
+
 h1.content-listing-header{
   font-style: normal;
+  font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   font-size: 1.8rem;

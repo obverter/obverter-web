@@ -3,11 +3,11 @@ author: Ben Tyler Elliott
 date: 2022-08-04 12:00:00 -0800
 layout: post
 published: true
-tags: [Baseball]
+tags: [baseball]
 title: "Watching Baseball Is the Most Type 2 Fun You Can Have"
 ---
 
-Baseball is compelling in part because it is an endless test of patience and endurance. No other sport brings so vividly to life the act of indeterminate waiting.
+Baseball is compelling in part because it is an endless test of patience and endurance. No other sport brings so vividly to life the act of indeterminate waiting. And therein lies its begrudging appeal.
 
 <!--more-->
 
