@@ -3,19 +3,19 @@ layout: page
 title: About
 ---
 
-{% marginfigure 'about-ben-photo' 'assets/img/about-ben-photo.jpg' ''  %}I'm a writer, a data analyist, a small-biz Operations whiz, a Photoshop scoundrel, a burrito enthusiast, a weird-book worm, a sabermetrics goblin, and a not-terrible woodworker. Not necessarily in that order.
+{% marginfigure 'about-ben-photo' 'assets/img/about-ben-photo.jpg' ''  %}I'm a writer, a data analyst, a small-biz Operations whiz, a burrito enthusiast, a textbook editor, a weird-book worm, a sabermetrics goblin, a motion designer, a CAD modeler, a long-distance cyclist, a semi-retired photographer, and a ten-fingered woodworker.
 
 I'm an indiscriminate connoisseur of the Interesting, and I tend to write about not-depressing things.
 
-For the last ten years I've been running a boutique environmental engineering firm, which specializes in facility design, process analysis, and issues that have the potential to transmogrify tools, people, and indeed entire buildings into ephemeral, outbound smithereens.
+For the last ten years I've been running a boutique environmental engineering firm, which specializes in applied facility design, industrial process development, and ameliorating hazards that have the potential to transmogrify equipment, people, and indeed entire buildings into ephemeral, outbound smithereens.
 
 In that role, I've worked with hundreds of clients of every size, including three-letter agencies, Fortune 1 companies, garage-sized startups, Mom-and-Pop gas stations, and manufacturing facilities that were old when the world was young.
 
 I've even worked with companies whose executives have gone on to e.g. implode large social media platforms, or who have defrauded biotech investors and since been sent to prison. How fun!
 
-I'm a big fan of baseball history, weird books, and the Oxford Comma.
+I enjoy punching up dry Wikipedia articles,{% sidenote 'sidenote-1' "For almost 74 hours in I think it was late April or early May 2003, Karl Marx's middle name was Danger." %} compositing my loved ones into famous photographs, and the Oxford Comma.
 
-I live in the Bay Area with my dog{% sidenote "sidenote-one" "Kermit. His middle name is Danger." %} and his family.
+I live in the Bay Area with my dog{% sidenote "sidenote-2" "Unlike Marx, his middle name really is Danger." %} and his family.
 
 [Email me an email.](mailto:ben@obverter.com)
 

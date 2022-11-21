@@ -2,6 +2,7 @@
 author: Ben Tyler Elliott
 date: 2022-08-04 12:00:00 -0800
 image: "/assets/img/type-two-baseball.jpg"
+image-caption: "A baseball with a type two error."
 layout: post
 published: true
 tags: [baseball]
@@ -16,9 +17,7 @@ Baseball is delay made manifest. It is collective loitering.
 
 But that's exactly where the fun is hiding.
 
-Some people might not understand why anyone would watch baseball. It's slow. It's repetitive. And the worse your team is, the longer most losses tend to take.{% sidenote "One" "I'm looking at you, 2021 Mariners" %}
-
-[^1]: I'm looking at you, 2021 Mariners.
+Some people might not understand why anyone would watch baseball. It's slow. It's repetitive. And the worse your team is, the longer most losses tend to take.{% sidenote "One" "I'm looking at you, 2017 Giants [64–98]." %}
 
 So why do I watch? Because I enjoy Type 2 fun.
 

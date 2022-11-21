@@ -3,6 +3,7 @@ layout: post
 title: "Complete Games Are Done"
 tags: [baseball, python/pandas]
 image: "/assets/img/type-two-baseball.jpg"
+author: Ben Tyler Elliott
 ---
 
 
