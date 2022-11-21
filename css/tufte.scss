@@ -125,6 +125,17 @@ p .subtitle { font-style: italic;
              display: block;
              line-height: 1.08888888888889; }
 
+.post-image {
+             margin-top: 2.1777777777777778rem;
+             margin-bottom: 0.2177rem;
+             font-size: 3.6rem;
+             font-style: italic;
+             font-family:initial;
+             display: block;
+             image-resolution: 200px;
+             margin: auto auto auto 45%;
+             line-height: 1.08888888888889; }
+
 .post-title {
              margin-top: 2.1777777777777778rem;
              margin-bottom: 0.2177rem;
@@ -476,7 +487,7 @@ h1.content-listing-header{
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   margin: 10%, 0, 0, 0;
 }
 
@@ -678,3 +689,8 @@ hr.slender {
   content: "\eae4";
 }
 /*-- End of Icomoon icon font section --*/
+
+.home-image{
+  //css that makes a responsive home image that appears alongside the first h1 heading on the home page and is in the same container as the h1 and is 20% of the width of the container and is aligned on the right side of the container
+  float: right;
+}

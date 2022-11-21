@@ -3,15 +3,15 @@ layout: page
 title: About
 ---
 
-{% marginfigure 'about-ben-photo' 'assets/img/about-ben-photo.jpg' ''  %}I'm a writer, a data analyist, a small-biz Operations whiz, a Photoshop scoundrel, a burrito enthusiast, a weird-book worm, a garbage disposal for trivia, a baseball goblin, a maker, and a finish woodworker. Not necessarily in that order.
+{% marginfigure 'about-ben-photo' 'assets/img/about-ben-photo.jpg' ''  %}I'm a writer, a data analyist, a small-biz Operations whiz, a Photoshop scoundrel, a burrito enthusiast, a weird-book worm, a baseball goblin, and a finish woodworker. Not necessarily in that order.
 
 I'm an indiscriminate connoisseur of the Interesting, and I tend to write about not-depressing things.
 
-For the last ten years I've been running a boutique environmental engineering firm, which specializes in facility design, process analysis, and issues that have the potential to transmogrify tools, people, and indeed entire buildings into numberless smithereens.
+For the last ten years I've been running a boutique environmental engineering firm, which specializes in facility design, process analysis, and issues that have the potential to transmogrify tools, people, and indeed entire buildings into outbound smithereens.
 
 In that role, I've worked with hundreds of clients of every size, including three-letter agencies, Fortune 1 companies, garage-sized startups, Mom-and-Pop gas stations, and manufacturing facilities that were old when the world was young.
 
-I've even participated in one-off projects for companies whose executives have gone on to implode large social media platforms, or who have defrauded biotech investors and since been sent to prison.{% sidenote "about-note-1" "Have you ever fired a client? I have." %} How fun!
+I've even participated in one-off projects for companies whose executives have gone on to implode large social media platforms, or who have defrauded biotech investors and since been sent to prison.{% sidenote "about-note-1" "Have you ever fired a client? Because I have." %} How fun!
 
 I'm a big fan of baseball history, weird books, and the Oxford Comma.
 

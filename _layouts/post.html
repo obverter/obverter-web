@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
+<span class="marginnote"> <img class="post-image" src="{{ page.image }}""> </span>
 <h1 class="post-title"">{{ page.title }}</h1>
 <p class="subtitle"><b>By {{ page.author }}</b><br><i>{{ page.date | date: "%B %-d, %Y" }}</i></p>
+<!-- <img class="post-image" src="{{ page.image }}" alt="{{ page.title }}"> -->
+
+<!-- <span class='marginnote'> <img class='fullwidth' src='{{ page.image }}'></span> -->
+
 
 {{ content }}
