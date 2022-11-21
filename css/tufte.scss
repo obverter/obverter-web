@@ -125,6 +125,16 @@ p .subtitle { font-style: italic;
              display: block;
              line-height: 1.08888888888889; }
 
+.post-title {
+             margin-top: 2.1777777777777778rem;
+             margin-bottom: 0.2177rem;
+             font-size: 3.6rem;
+             font-style: italic;
+             font-family:initial;
+             display: block;
+             margin: auto 45% auto auto;
+             line-height: 1.08888888888889; }
+
 .topic { font-variant: small-caps;
              margin-top: 2.1777777777777778rem;
              margin-bottom: 0.2177rem;
@@ -467,6 +477,7 @@ h1.content-listing-header{
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   font-size: 1.8rem;
+  margin: 10%, 0, 0, 0;
 }
 
 li.listing hr{
