@@ -2,7 +2,6 @@
 author: Ben Tyler Elliott
 date: 2022-08-04 12:00:00 -0800
 image: "/assets/img/type-two-baseball.jpg"
-image-caption: "A baseball with a type two error."
 layout: post
 published: true
 tags: [baseball]

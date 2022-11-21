@@ -1,7 +1,7 @@
 ---
 author: Ben Tyler Elliott
 date: 2022-07-25 11:58:47 +07:00
-image: "/assets/img/type-two-baseball.jpg"
+image: "/assets/img/maxinator.png"
 layout: post
 repo: "https://github.com/obverter/going-for-distance"
 tags: [baseball, python/pandas]

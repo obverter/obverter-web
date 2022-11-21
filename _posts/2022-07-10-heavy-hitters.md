@@ -3,6 +3,8 @@ layout: post
 title: "Size Doesn't Really Matter in the MLB"
 tags: [baseball, python/pandas]
 image: "/assets/img/type-two-baseball.jpg"
+author: Ben Tyler Elliott
+published: false
 ---
 
 
