@@ -5,23 +5,23 @@ title: About
 
 {% marginfigure 'about-ben-photo' 'assets/img/about-ben-photo.jpg' ''  %}Hi. I'm **Ben Tyler Elliott**.
 
-I'm a writer, a data analyst, a small-biz Operations whiz, a burrito enthusiast, a textbook editor, a weird-book worm, a sabermetrics goblin, a motion designer, a CAD modeler, a long-distance cyclist, a semi-retired photographer, and a ten-fingered woodworker.
-
-I use my middle name in my byline so that casting directors searching for [this smokeshow](https://www.imdb.com/name/nm3938099/) stop blowing up my phone.
-
-And I can't just use my middle initial, either. Tried that. Folks just kept asking me how I landed a job as a [Reagan's Director of Speechwriting](https://en.wikipedia.org/wiki/Ben_T._Elliott) before I could read.
-
 I'm an indiscriminate connoisseur of the Interesting, and I tend to write about not-depressing things.
+
+I'm a novelist, a data analyst, a small-biz Operations whiz, a textbook editor, a weird-book collector, a sabermetrics goblin, a pretty decent motion designer, a so-so CAD modeler, a long-distance cyclist, a semi-retired photographer, a ten-fingered woodworker, and a burrito enthusiast.
 
 For the last ten years I've been running a boutique environmental engineering firm that specializes in applied facility design, industrial process development, and ameliorating hazards that have the potential to transmogrify equipment, people, and indeed entire buildings into ephemeral, outbound smithereens.
 
-In that role, I've worked with hundreds of clients of every size, including three-letter agencies, Fortune 1 companies, garage-sized startups, Mom-and-Pop gas stations, poorly managed golf courses, and manufacturing facilities that were old when the world was young.
+In that role, I've worked with hundreds of clients of every size, including three-letter agencies, Fortune 1 companies, garage-sized startups, Mom-and-Pop gas stations, poorly managed golf courses, and paper mills that were old when the world was young.
 
 I've even worked with companies whose executives have gone on to e.g. implode large social media platforms, or who have defrauded biotech investors and since been sent to prison. How fun!
 
-Whenever I'm not being productive, I enjoy punching up dry Wikipedia articles,{% sidenote 'sidenote-1' "For almost 74 hours in I think it was late April or early May 2003, Karl Marx's middle name was Danger." %} compositing my loved ones into famous paintings and photographs, and relishing the Oxford Comma.
+I use my middle name in my byline so that casting directors searching for [this smokeshow](https://www.imdb.com/name/nm3938099/) might stop blowing up my spot.
 
-I live in the Bay Area with my dog{% sidenote "sidenote-2" "Unlike Marx, his middle name really is Danger." %} and his family.
+And it turns out that I can't just use my middle initial, either. Folks just kept asking how I landed a job as a [Reagan's Director of Speechwriting](https://en.wikipedia.org/wiki/Ben_T._Elliott) before I could read.
+
+Whenever I'm not being productive, I enjoy punching up dry Wikipedia articles,{% sidenote 'sidenote-2' "For almost 74 hours in I think it was late April or early May 2003, Karl Marx's middle name was Danger." %} compositing my loved ones into famous paintings and photographs, and relishing the Oxford Comma.
+
+I live in the Bay Area with my dog{% sidenote "sidenote-3" "Unlike Marx, his middle name really is Danger." %} and his family.
 
 [Email me an email.](mailto:ben@obverter.com)
 

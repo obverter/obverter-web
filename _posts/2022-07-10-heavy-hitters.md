@@ -2,7 +2,7 @@
 layout: post
 title: "Size Doesn't Really Matter in the MLB"
 tags: [baseball, python/pandas]
-image: "/assets/img/type-two-baseball.jpg"
+image: "/assets/img/heavy-hitters.png"
 author: Ben Tyler Elliott
 published: false
 ---
@@ -20,7 +20,7 @@ And even as someone who's spent about thirty years studying the game — that pe
 
 Quick example. Compare these bodies:
 
-<!-- ![bmi_comparison](../assets/images/posts/2022/heavy_hitters/bmi_comparison.png) -->
+![bmi_comparison](../assets/img/bmi_comparison.png)
 
 Everyone would likely agree that at least **one** of these people is in stupendous shape. But if you said I'd win twenty bucks if I could correctly identify which (if any) of these folks were professional athletes — I *might not* pick the guys on sides.
 
@@ -37,12 +37,14 @@ One of the wonderful things about baseball is that there are roughly *eleventy-b
 
 Height and weight are among the metrics that we know for over 99% of all ballplayers.
 
-<iframe title="Here's How Every MLB Player in History Shapes Up" aria-label="Table" id="datawrapper-chart-kyZDp" src="https://datawrapper.dwcdn.net/kyZDp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="376"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+![woiehr](https://www.datawrapper.de/_/kyZDp/)
+
+<iframe class="body" title="Here's How Every MLB Player in History Shapes Up" aria-label="Table" id="datawrapper-chart-kyZDp" src="https://datawrapper.dwcdn.net/kyZDp/1/" scrolling="no" frameborder="0" style="width: 0; max-width: 87.5%; border: none;"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 But in a sport where plenty of the players in its pantheon look sort of like this:
 
-<!-- ![Babe Ruth](../assets/images/posts/2022/heavy_hitters/babe_ruth.jpeg) -->
+![Babe Ruth](../assets/img/babe_ruth.jpeg)
 
 An itchy question begins to instantiate itself about one inch behind my forehead.
 
@@ -135,7 +137,7 @@ This was the furthest I could push the filter before I started losing positional
 From these, grouping players by position and sorting by descending weight yields this as the inaugural roster of the Wonkaville Huskies.
 
 
-<iframe title="The 2022 Wonkaville Huskies" aria-label="Table" id="datawrapper-chart-tvkRI" src="https://datawrapper.dwcdn.net/tvkRI/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1134"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="The 2022 Wonkaville Huskies" aria-label="Table" id="datawrapper-chart-tvkRI" src="https://datawrapper.dwcdn.net/tvkRI/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1165" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
@@ -144,7 +146,7 @@ From these, grouping players by position and sorting by descending weight yields
 
 <br>
 
-<iframe title="This is What Peak Performance Looks Like" aria-label="Range Plot" id="datawrapper-chart-jDZzI" src="https://datawrapper.dwcdn.net/jDZzI/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="146"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="This is What Peak Performance Looks Like" aria-label="Range Plot" id="datawrapper-chart-jDZzI" src="https://datawrapper.dwcdn.net/jDZzI/1/" scrolling="no" frameborder="0" style="width: 0; max-width: 80% !important; border: none;" height="146"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
