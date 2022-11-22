@@ -1,7 +1,15 @@
 ---
 layout: default
 ---
-<img style="float:right; width:40%; margin:0 20% 0 0; padding:0 0 2rem 2rem;" src="{{ page.image }}" alt="{{ page.title }}" figcaption="{{ page.image-caption }}">
+<!-- style="width:50%; margin:0 20% 2rem 0; padding:0; border:2px; border-style:groove" -->
+<section>
+<img
+style="width:80%;min-width:300px;max-width:600px; max-height: auto; margin:auto; padding:0 -10%; border:2px; border-style:groove"
+src="{{ page.image }}"
+alt="{{ page.title }}">
+<div class="article-caption">{{ page.image-caption }}</div>
+
+</section>
 <section>
 <h1 class="post-title"">{{ page.title }}</h1>
 <p class="subtitle"><b>By {{ page.author }}</b><br><i>{{ page.date | date: "%B %-d, %Y" }}</i></p>

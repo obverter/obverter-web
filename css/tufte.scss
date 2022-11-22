@@ -139,11 +139,13 @@ p .subtitle { font-style: italic;
 .post-title {
              margin-top: 2.1777777777777778rem;
              margin-bottom: 0.2177rem;
+             padding-right: 2rem;
              font-size: 2.8rem;
              font-style: italic;
              font-family:initial;
              display: block;
-             margin: auto 45% auto auto;
+             margin: auto auto auto auto;
+
              line-height: 1.08888888888889; }
 
 .topic { font-variant: small-caps;
@@ -756,4 +758,31 @@ hr.slender {
       margin: auto auto;
     }
   }
+
+    .resp-container {
+      position: relative;
+      overflow: hidden;
+      padding-top: 56.25%;
+      // max-width: 700px;
+      min-width: 50%;
+    }
+
+    .article-image {
+      width: 8%;
+      max-width: 600px;
+      margin: 0 20% 0 0;
+      padding: 1rem;
+      border: 2px;
+      border-style: groove
+    }
+
+    .article-caption {
+      padding: 0 0 0rem 0;
+      font-size: 0.4rem;
+      font-style: italic;
+      text-align: center;
+      margin: 0 0 0rem 0;
+      padding: 0;
+      border: 0;
+    }
 }

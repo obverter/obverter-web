@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-{% marginfigure 'about-ben-photo' 'assets/img/about-ben-photo.jpg' ''  %}Hi. I'm **Ben Tyler Elliott**.
+{% marginfigure 'about-ben-photo' 'assets/img/root/about-ben-photo.jpg' ''  %}Hi. I'm **Ben Tyler Elliott**.
 
 I'm an indiscriminate connoisseur of the Interesting, and I tend to write about not-depressing things.
 

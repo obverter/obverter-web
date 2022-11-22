@@ -4,7 +4,8 @@ title: "Why It's (Probably) Not Too Late to Start Drawing"
 tags: [drawing, crimes against portraiture]
 author: Ben Tyler Elliott
 published: true
-image: "/assets/img/portrait-2.png"
+image: "/assets/img/posts/art/portrait-2.png"
+image-caption: "A portrait of my dog."
 ---
 A few years, and then months, and then minutes ago, I decided that I wanted to learn how to draw. And the first question I've always asked myself whenever I've set out along this path has always been the same: Why?
 
@@ -26,6 +27,7 @@ What I didn't realize at the time (whether it be years, months, or minutes ago) 
 %}
 
 ## The First Step is Always the Hardest
+
 The first step in any journey is always the hardest, and learning to draw has been no exception. The hardest part wasn't necessarily finding the time or resources to dedicate to my new forever-and/or-temporary-hobby—although that was certainly a challenge—but rather getting over the mental hurdle of thinking that I couldn't do it.
 
 See, the thing about adulting is that we often get stuck in our ways. We become comfortable with our routines and our 9-5 jobs and forget that there's more to life than just working and sleeping. So when we try something new—especially something that's outside of our comfort zone—it can be really tough.
