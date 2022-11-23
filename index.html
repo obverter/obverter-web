@@ -17,16 +17,23 @@ title: Obverter
   <h1 class="content-listing-header sans">What's Newish ¬</h1>
   <ul class="content-listing ">
     {% for post in site.posts %}
+    <hr class="slender">
     <li class="listing">
-      <hr class="slender">
-      <!-- <img style="float:right; margin:0 2rem 0 1%; padding 0 0 0 2rem;" src="{{ post.image }}" alt="{{ post.image }}" width="20%" class="responsive"> -->
-      <div>
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <h3 class="contrast responsive">{{ post.title }}</h3>
-          <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span> <br />
+      <img class="roll-image left-element" src="{{ post.image }}" alt="{{ post.title }}">
+      <div class="right-element">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              <div>
+              <h3 class="contrast" style="display:flex;">{{ post.title }}</h3></a></div>
+              <span class="smaller">{{ post.date | date: "%B %-d, %Y" }}
+              </span>
+            </div>
+            <div>{{ post.excerpt }}</div>
+      </div>
+
+
         </a>
-        <div class="roll-image"><img src="{{ post.image }}" alt="{{ post.image }}"></div>
-        <div>{{ post.excerpt }}</div>
+        <!-- <div class="roll-image"><img src="{{ post.image }}" alt="{{ post.image }}"></div> -->
+
       </div>
     </li>
     {% endfor %}

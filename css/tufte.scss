@@ -471,8 +471,7 @@ ul.footer-links li{
 body.full-width, .content-listing, ul.content-listing li.listing{ width: 90%;
        margin-left: auto;
        margin-right: auto;
-       padding: 0% 5%;
-
+       padding: 0% 0% 5% 0%;
 }
 .full-width article p{
   width: 90%;
@@ -704,17 +703,16 @@ hr.slender {
 /*-- End of Icomoon icon font section --*/
 
 .home-image{
-  float: left;
   margin: 0 2rem 0 10%;
-  max-width: 25%;
-  @media (min-width: 1081px) {
-      .roll-image {
-        min-height: 10%;
-        min-width: 10%;
-        max-width: 25%;
-        float: left;
-        // max-height: 250px;
-      }
+  max-width: 33%;
+  // @media (min-width: 1081px) {
+  //     .roll-image {
+  //       min-height: 10%;
+  //       min-width: 10%;
+  //       max-width: 25%;
+  //       float: left;
+  //       // max-height: 250px;
+  //     }
     }
 
     @media (max-width: 1080px) {
@@ -729,14 +727,20 @@ hr.slender {
 .blogroll{
 
 }
-
 .roll-image {
-  margin: 0 0 0rem 1rem;
-  padding: 0 0 0rem 1rem;
-  border: 0;
-  border-left: 1px solid #000;
-  display: block;
-  float: right;
+  margin: 0 2rem 0 10%;
+  max-height: 300px;
+  float: left;
+  margin: auto auto;
+}
+  // float: left;
+  // width: auto;
+  // position: relative;
+  // margin: 0 0 0rem 1rem;
+  // padding: 0 0 0rem 1rem;
+  // border: 0;
+  // border-left: 1px solid #000;
+  // max-height: 400px;
 
   // @media (min-width: 881px) {
   //     min-height: 10%;
@@ -757,7 +761,7 @@ hr.slender {
       float: none;
       margin: auto auto;
     }
-  }
+
 
     .resp-container {
       position: relative;
@@ -773,7 +777,7 @@ hr.slender {
       margin: 0 20% 0 0;
       padding: 1rem;
       border: 2px;
-      border-style: groove
+      border-style: groove;
     }
 
     .article-caption {
@@ -785,4 +789,27 @@ hr.slender {
       padding: 0;
       border: 0;
     }
-}
+
+        .container {
+          position: fixed;
+          left: 350px;
+          padding: 0;
+          margin: 0;
+        }
+
+        .left-element {
+          border: 1px gray;
+          border-style: inset;
+          float:inline-start;
+          margin: 1rem;
+          padding: 0;
+          height: 300px;
+          width: 300px;
+          object-fit: cover;
+        }
+
+        .right-element {
+          float: inline-end;
+          margin: 1rem;
+          padding: 0 0 0 1rem;
+        }
