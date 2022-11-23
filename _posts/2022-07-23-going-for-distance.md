@@ -21,7 +21,7 @@ I was watching Scherzer pitch and I wondered: how far would Max travel if he exa
 
 TL;DR — About this far:
 
-<iframe class='iframe' min-width='600' height='600' src="https://api.mapbox.com/styles/v1/obverter/cl5wpo4yj000a15oagau5m77f.html?title=false&access_token=pk.eyJ1Ijoib2J2ZXJ0ZXIiLCJhIjoiY2w1dHM1YWl5MDRndDNkbW95aWFoNHRiZSJ9.JjyrEbdkcdCpUHLeYoP4IA&zoomwheel=false#3.26/44.24/-102.53/0/9" title="Outdoors" style="border:none; padding:2rem 0 0 0;"></iframe>
+<iframe class='iframe' min-width='600' height='600' src="https://api.mapbox.com/styles/v1/obverter/cl5wpo4yj000a15oagau5m77f.html?title=false&access_token=pk.eyJ1Ijoib2J2ZXJ0ZXIiLCJhIjoiY2w1dHM1YWl5MDRndDNkbW95aWFoNHRiZSJ9.JjyrEbdkcdCpUHLeYoP4IA&zoomwheel=false#3.26/44.24/-102.53/0/9" title="Outdoors" style="border:none; padding:2rem 0 0 0;"></iframe><br>
 
 ## I'm Going to Need Some Data
 
@@ -45,28 +45,33 @@ I'm going to assume that Max is going to throw every pitch with the same speed, 
 
 I'm also going to assume that he's performing this feat under these conditions:
 
-| Parameter          |                 Pocket Universe |
-|:-------------------|--------------------------------:|
-| Topography         | Flat, featureless, and infinite |
-| Atmosphere         |                             STP |
-| Do objects roll?   |                            Nope |
-| Do objects bounce? |                           Never |
-| Launch inclination |                             45˚ |
+| Parameter          | Pocket Universe |
+|:-------------------|:----------------|
+| Topography         | Flat            |
+| Atmosphere         | STP             |
+| Wind               | Nope            |
+| Launch inclination | 45˚             |
+
+Also, I'm going to make my life about infinity easier by assuming that the ball is going to travel in a straight line, and that it doesn't bounce or roll when it lands.
 
 ## How Far Can He Go?
 
 Here's approximately/exactly how far:
 
-| Pitch                | Count      | Mean Distance (m) | Approx. Total Distance (m) |
-|:---------------------|:-----------|------------------:|---------------------------:|
-| Four-seam Fastball   | 23,967     |            128.18 |                  3,100,000 |
-| Sinker               | 526        |            119.09 |                     62,600 |
-| Curveball            | 2593       |             97.04 |                    251,600 |
-| Change-up            | 7307       |            102.50 |                    749,000 |
-| Cut Fastball         | 1512       |            131.40 |                    199,000 |
-| Slider               | 7868       |            108.85 |                    856,500 |
-| :------------------- | :------    |    -------------: |             -------------: |
+| Pitch                |      Count | Mean Distance (m) | Approx. Total Distance (m) |
+|:---------------------|-----------:|------------------:|---------------------------:|
+| Four-seam            |     23,967 |            128.18 |                  3,100,000 |
+| Sinker               |        526 |            119.09 |                     62,600 |
+| Curveball            |       2593 |             97.04 |                    251,600 |
+| Change-up            |       7307 |            102.50 |                    749,000 |
+| Cutter               |       1512 |            131.40 |                    199,000 |
+| Slider               |       7868 |            108.85 |                    856,500 |
+| :------------------- |    ------: |    -------------: |             -------------: |
 | **Total**            | **44,023** |        **111.96** |              **5,218,700** |
+
+About 5.2 million meters, or 3.2 million yards, or 1.8 million miles.
+
+Or, roughly the distance from Cleveland to Seattle to San Francisco.
 
 ## Peep the Repo
 

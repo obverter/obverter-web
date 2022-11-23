@@ -17,8 +17,6 @@ I've even worked with companies whose executives have gone on to e.g. implode la
 
 I use my middle name in my byline so that casting directors searching for [this smokeshow](https://www.imdb.com/name/nm3938099/) might stop blowing up my spot.
 
-And it turns out that I can't just use my middle initial, either. Folks just kept asking how I landed a job as a [Reagan's Director of Speechwriting](https://en.wikipedia.org/wiki/Ben_T._Elliott) before I could read.
-
 Whenever I'm not being productive, I enjoy punching up dry Wikipedia articles,{% sidenote 'sidenote-2' "For almost 74 hours in I think it was late April or early May 2003, Karl Marx's middle name was Danger." %} compositing my loved ones into famous paintings and photographs, and relishing the Oxford Comma.
 
 I live in the Bay Area with my dog{% sidenote "sidenote-3" "Unlike Marx, his middle name really is Danger." %} and his family.

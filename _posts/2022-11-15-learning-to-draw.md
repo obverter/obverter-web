@@ -46,11 +46,11 @@ One of the best things about learning to draw as an adult is that you have a bet
 
 For example, one of my favorite things to do now is look back at old drawings and see how far I've come. Consider this drawing from over twenty minutes ago:
 
-![Crimes Against Portraiture, Fig. 1](../../assets/img/drawing/portrait-1.png)
+![Crimes Against Portraiture, Fig. 1](../../assets/img/posts/art/portrait-1.png)
 <!-- <img src="{{site.baseurl}}/assets/img/portrait-1.png" alt="Crimes Against Portraiture, Fig. 1" /> -->
 
  and compare it to this one from just now:
-![Crimes Against Portraiture, Fig. 2](../../assets/img/drawing/portrait-2.png)
+![Crimes Against Portraiture, Fig. 2](../../assets/img/posts/art/portrait-2.png)
 <!-- <img src="{{site.baseurl}}/assets/img/portrait-2.png" alt="Crimes Against Portraiture, Fig. 2" /> -->
 
 It's amazing how much your skills can improve in just a few short minutes when you're thinking about putting in the effort on a regular basis. And while my drawings still aren't perfect, it's nice knowing that I'm thinking about making progress—however slowly it may be.

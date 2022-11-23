@@ -709,10 +709,9 @@ hr.slender {
   border: 2px;
   border-color: wheat;
   border-style: outset;
-box-shadow: 8px 4px 8px -6px rgba(168, 162, 84, 0.75);
-  -webkit-box-shadow: 8px 4px 8px -6px rgba(168, 162, 84, 0.75);
-  -moz-box-shadow: 8px 4px 8px -6px rgba(168, 162, 84, 0.75);
-  border-radius: 2px;
+box-shadow: 8px 4px 3px -6px rgba(151, 151, 151, 0.75);
+  -webkit-box-shadow: 8px 4px 3px -6px rgba(151, 151, 151, 0.75);
+  -moz-box-shadow: 8px 4px 3px -6px rgba(151, 151, 151, 0.75);
   // @media (min-width: 1081px) {
   //     .roll-image {
   //       min-height: 10%;

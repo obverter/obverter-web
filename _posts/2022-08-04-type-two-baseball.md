@@ -8,17 +8,15 @@ tags: [baseball]
 title: "Watching Baseball Is the Most Type 2 Fun That a Person Can Have"
 ---
 
-Baseball is compelling in part because it is an endless test of patience and endurance. No other sport brings so vividly to life the act of indeterminate waiting. And therein lies its begrudging appeal.
+Baseball is compelling in part because it is an endless test of patience and endurance. No other sport brings so vividly to life the tedium of indeterminate waiting. And therein lies its specific appeal.
 
 <!--more-->
 
-Baseball is delay made manifest. It is collective loitering.
-
-But that's exactly where the fun is hiding.
+Baseball is delay made manifest. It is loitering coupled with statistics.
 
 Some people might not understand why anyone would watch baseball. It's slow. It's repetitive. And the worse your team is, the longer most losses tend to take.{% sidenote "One" "I'm looking at you, 2017 Giants [64–98]." %}
 
-So why do I watch? Because I enjoy Type 2 fun.
+So why do I watch? Because I adore Type 2 fun.
 
 ## What is Type 2 Fun?
 
@@ -30,7 +28,7 @@ It's every not-your-toddler's birthday party anyone has ever been to.
 
 It's wandering drunk through the 3AM streets of London in June 2008 and trying your hostel key on the front door of every house on the wrong block.
 
-In other words, it's not the most thrilling way to spend your time, but there is a certain satisfaction that comes from just getting through it.
+It's not the most thrilling way to spend your time, basically. But there is a certain satisfaction that comes from just getting through it.
 
 ## Why Watching Baseball is the Poster-child for Type 2 Fun
 
@@ -38,9 +36,9 @@ First of all, there's the sheer length of the games. They can go on for hours an
 
 Secondly, there are no timeouts or breaks in the action in baseball. This is because the game itself is a kind of timeout. The action is what happens when people forget to stand around.
 
-Finally, there's the fact that baseball games are, in essence, nothing but downtime. There are long pauses between pitches, and even longer pauses between innings.
+Finally, there's the fact that baseball games are, in essence, nothing but downtime. There are long pauses between pitches, and even longer pauses between innings. Most of the time the camera is scanning the crowd for anything interesting to broadcast.
 
-Even replay reviews — which were conceived as a way for teams to seek relief for egregious failures of umpiring — begin these days with the manager holding up one hand and asking for some extra time to decide whether they're going to decide to ask the umpires to reconsider a decision.
+Even replay reviews begin with the manager holding up a hand to ask for some extra time to decide whether they're going to decide to ask the umpires to call an *entirely different* team of umpires across the fucking country who will reconsider the on-field decision and, after an arbitrary delay during which the Mystery Umpires must first search for their eyeglasses, render a final decision—even if it's the same decision.
 
 It's the waiting, you see. The waiting seasons the suffer, and the suffer's the spirit of Type 2 Fun.
 
