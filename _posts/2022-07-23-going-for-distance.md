@@ -33,22 +33,15 @@ Every stadium has something like radar installed all around the field, which pre
 
 Here's the average speed, spin rate, and spin axis of every 4-Seam Fastball that Max has ever thrown:
 
-|                   |  mpg |  cyl | disp |   hp | drat |   wt |
-| :---------------- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Mazda RX4         |   21 |    6 |  160 |  110 | 3.90 | 2.62 |
-| Mazda RX4 Wag     |   21 |    6 |  160 |  110 | 3.90 | 2.88 |
-| Datsun 710        | 22.8 |    4 |  108 |   93 | 3.85 | 2.32 |
-| Hornet 4 Drive    | 21.4 |    6 |  258 |  110 | 3.08 | 3.21 |
-| Hornet Sportabout | 18.7 |    8 |  360 |  175 | 3.15 | 3.44 |
-| Valiant           | 18.1 |    6 |  160 |  105 | 2.76 | 3.46 |
+|                    |  Speed |      RPM | Spin Axis |
+| :----------------  | -----: | -------: | -------:  |
+| Four-seam Fastball | 94.337 | 2490.361 | 217.370˚  |
 
 And this is just the tip of the Maxberg.
 
 See, Max made his Major League debut shortly after these systems came online, which means that we have the benefit of having super granular empirical data available for every pitch he's ever thrown in pro ball.
 
 Which got me wondering...
-
-### How Far Can He Go?
 
 I dragged all of Max's pitching data across the Information Superhighway and ran it through the Sausagemaker[^1] in pursuit of a simple question with simple parameters:
 
@@ -62,9 +55,9 @@ I dragged all of Max's pitching data across the Information Superhighway and ran
 8. And then the third.
 9. Repeat through all ~44,000ish pitches he's ever thrown.
 
-How far has he traveled?
+## How Far Can He Go?
 
-### Here's Exactly How Far
+Here's Exactly How Far
 
 <iframe title="Max Scherzer's Distance Traveled by Pitch Type" aria-label="Interactive area chart" id="datawrapper-chart-SqjZd" src="https://datawrapper.dwcdn.net/SqjZd/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
@@ -80,8 +73,6 @@ How far has he traveled?
 
 ---
 
-[^1]: I still can't settle on a nickname for my development environment.
-[^2]: Flat meaning he's standing on a flat plane in a three-dimensional space. He's not suddenly two-dimensional.
 [^3]: Intentional Balls were phased out of the game a few years ago[^4] — ostensibly to <span style="font-family:Comic Sans MS">**sPeEd uP tHe GaMe**</span>. But this doesn't change much about Max.
 
 ---
