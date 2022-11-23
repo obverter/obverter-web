@@ -1,2 +1,2 @@
 
-```{{ "{% maincolumn 'assets/img/export-imports.png' 'From Edward Tufte, *Visual Display of Quantitative Information*, page 92' "}} %}```
+{% fullwidth 'assets/img/napoleons-march.png' 'Napoleon's March (Edward Tufte’s English translation)' %}
