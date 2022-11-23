@@ -705,6 +705,14 @@ hr.slender {
 .home-image{
   margin: 0 2rem 0 10%;
   max-width: 33%;
+  transform: rotate(10deg);
+  border: 2px;
+  border-color: wheat;
+  border-style: outset;
+box-shadow: 8px 4px 8px -6px rgba(168, 162, 84, 0.75);
+  -webkit-box-shadow: 8px 4px 8px -6px rgba(168, 162, 84, 0.75);
+  -moz-box-shadow: 8px 4px 8px -6px rgba(168, 162, 84, 0.75);
+  border-radius: 2px;
   // @media (min-width: 1081px) {
   //     .roll-image {
   //       min-height: 10%;
