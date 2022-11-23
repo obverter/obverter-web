@@ -222,7 +222,7 @@ h1 code, h2 code, h3 code { font-size: 0.80em; } //left in for no real reason
 /*-- Table styling section - For Tufte-Jekyll, booktabs style is default for Markdown tables  --*/
 
 table, table.booktabs { width: auto;  //making booktabs style tables the unstyled default in case someone uses Markdown styling
-                 //margin: 0 auto;
+                 margin: 1.5rem 0 0 0;
                  border-spacing: 0px;
                  border-top: 2px solid $border-color;
                  border-bottom: 2px solid $border-color; }
@@ -812,4 +812,13 @@ hr.slender {
           float: inline-end;
           margin: 1rem;
           padding: 0 0 0 1rem;
+        }
+
+        .iframe {
+          float: inline-start;
+          margin: 0;
+          padding: 1rem;
+          min-height: 200px;
+          width: 80%;
+          object-fit: cover;
         }

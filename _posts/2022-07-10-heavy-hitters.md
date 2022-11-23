@@ -28,7 +28,6 @@ When you're ready, boop this footnote to find out to whom these torsos belong.[^
 
 [^1]: From left to right, these folks are Prince Fielder, Antonio Brown, and Cecil Fielder. Prince and his dad, Cecil, were big stars in the MLB. Antonio Brown is and/or was an NFL superstar — depending on the week, alignment of the planets, or some other catalyst that the universe has yet to discern.
 
-
 ---
 
 ## Baseball Players Come in One Shapes and Sizes
@@ -84,8 +83,8 @@ I'm interested in assembling a roster of me-types and then seeing how they'd sta
 
 Stay tuned, because there's one guy on the roster who's astonishingly bad at baseball — even though I'm sure he's a wonderful person.
 
-
 ---
+
 ## So Let's Put a Team Together
 
 Without getting into the weeds, let's agree that a modern baseball roster comprises 26 players — 13 pitchers and 13 not-pitchers.[^2]
@@ -136,13 +135,12 @@ This was the furthest I could push the filter before I started losing positional
 
 From these, grouping players by position and sorting by descending weight yields this as the inaugural roster of the Wonkaville Huskies.
 
-
 <iframe title="The 2022 Wonkaville Huskies" aria-label="Table" id="datawrapper-chart-tvkRI" src="https://datawrapper.dwcdn.net/tvkRI/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1165" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
 
-### And Here's How They Compare to the Aforementioned 20,000-player Historical Means:
+### And Here's How They Compare to the Aforementioned 20,000-player Historical Means
 
 <br>
 
@@ -166,7 +164,8 @@ Alright. So now we've got our roster.
 **How good is this team?**
 
 ---
-## WAR — What is it good for? Absolutely Everything.
+
+## WAR — What is it good for? Absolutely Everything
 
 When you start any sort of comparative analysis between baseball players, the good news is that you've got about a zillion ways to see how they measure up. Some of these are super simple.
 
@@ -181,6 +180,7 @@ $$SIERA = 6.145 - 16.896 \times \frac{SO}{PA} + 11.434 \times \frac{BB}{PA} - 1.
 There are, however, a few specific **shiny, golden metrics** that cut through much of the statistical noise and simply quantify a player's value relative to their contemporaries.
 
 For our analysis, we'll be relying on one of these: **Wins Above Replacement (WAR)**
+
 ### WAR Defined
 
 WAR measures the **totality of a player's value across all aspects of the game** by quantifying how many more wins they're worth **compared to a replacement-level player at his same position**.
@@ -199,24 +199,19 @@ And since it's **much harder to play** these positions, team owners are happy to
 
 ### Why WAR is Great in One Example or Less
 
-#### Consider these two Hall-of-Famers:
+#### Consider these two Hall-of-Famers
 
 <iframe title="" aria-label="Table" id="datawrapper-chart-GOfCX" src="https://datawrapper.dwcdn.net/GOfCX/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="338"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
-
-
 
 Dan Brouthers was a big, powerful guy who could hit a baseball to the moon. But he played First Base. And not very well. His success was earned almost entirely with his bat.
 
 Ozzie Smith is the greatest defensive shortstop that professional baseball has ever seen. Nobody really cared about whether he was cranking homers and legging out triples so long as he could keep doing stuff like this:
 
-
-
 <!-- ![Ozzie Smith is a wizard.](../assets/images/posts/2022/heavy_hitters/ozzie_smith.gif) -->
 
-
-
 Which was handy for Ozzie — because he sure couldn't hit.
+
 #### Pitchers and Batters Can Both Be Described with WAR
 
 Pitchers don't hit.
@@ -234,6 +229,7 @@ In sum: WAR is simple**.
 If I've got a **WAR of 1**, then it's reasonable to say that out of my team's 162-game season, **one of our team's wins is attributable to my contributions in the aggregate**. Had an 'extra' been playing my position and taking my at-bats — the team would've won one fewer game over the course of the season.
 
 ---
+
 ## So How 'Bout Them Huskies?
 
 How 'bout them Huskies[^4] indeed.
@@ -242,7 +238,6 @@ How 'bout them Huskies[^4] indeed.
 
 <iframe title="The Huskies Are Actually Not That Bad" aria-label="Table" id="datawrapper-chart-tezgG" src="https://datawrapper.dwcdn.net/tezgG/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1170"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
-
 
 Are you surprised? I was surprised.
 
@@ -255,6 +250,7 @@ Actually, it's *better* than not-bad.
 Hell, they're better than average.
 
 ---
+
 ## Finding an analogue: The 1995 Seattle Mariners
 
 In fact, if we're searching for an analogous historical team that produced similar numbers, our Huskies are about as good as the **1995 Seattle Mariners**, who won more than half of their games and finished first in their division.
@@ -291,6 +287,7 @@ This isn't true. But on a gut-level, it isn't **not** true, either.
 Those Tigers were bad, bad, bad.
 
 ---
+
 ## Rounding Third
 
 So what did we learn today?
@@ -323,10 +320,8 @@ Poor guy got shelled and hooked in the first inning of his debut and was out of 
 
 ---
 
-
-###### Wanna see how I polished this diamond? Peep the Repo!
+###### Wanna see how I polished this diamond? Peep the Repo
 
 [Boop This Enormous Button to See This Story's Code on GitHub](https://github.com/obverter/bmi-stars){: .btn}
-
 
 ---

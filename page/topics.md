@@ -6,7 +6,6 @@ title: Topics
 
 <!-- @format -->
 
-
 {% for tag in site.tags %} {% if tag[0] != "index" %}
 
 <h3 class="topic" id="{{ tag[0] }}">{{ tag[0] }} ¬</h3>
@@ -14,9 +13,8 @@ title: Topics
     <ul>
 {% for post in tag[1] %}
         <small>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-            <small> | {{ post.date | date: '%b. %Y'}}</small>
-            <br></small>
+            .: <a href="{{ post.url }}">{{ post.title }}</a><br>
+            </small>
 {% endfor %}
         </ul>
     </div>

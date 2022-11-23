@@ -15,70 +15,85 @@ And then to San Francisco.
 
 <!--more-->
 
-## Going for distance
+## Going For Distance
 
-In fact, here's exactly how far he could've gone:
+I was watching Scherzer pitch and I wondered: how far would Max travel if he exactly replicated the speed and spin of every pitch in his career to date, but instead went for maximum distance? {% marginnote 'mn-1' "These are the things I wonder about while I'm <a href=\"http://www.obverter.com/type-two-baseball/\">watching baseball</a>." %}
 
-<iframe max-width='700' height='400' src="https://api.mapbox.com/styles/v1/obverter/cl5wpo4yj000a15oagau5m77f.html?title=false&access_token=pk.eyJ1Ijoib2J2ZXJ0ZXIiLCJhIjoiY2w1dHM1YWl5MDRndDNkbW95aWFoNHRiZSJ9.JjyrEbdkcdCpUHLeYoP4IA&zoomwheel=false#3.26/44.24/-102.53/0/9" title="Outdoors" style="border:none; padding:2rem 0 0 0;"></iframe>
+TL;DR — About this far:
 
-I was watching Scherzer pitch and I wondered: how far would Max travel if he exactly replicated the speed and spin of every pitch in his career to date, but instead went for maximum distance? {% marginnote 'mn-1' "These are the things I wonder about while I'm <a href=\"//www.obverter.com/type-two-baseball/\">watching baseball</a>." %}
+<iframe class='iframe' min-width='600' height='600' src="https://api.mapbox.com/styles/v1/obverter/cl5wpo4yj000a15oagau5m77f.html?title=false&access_token=pk.eyJ1Ijoib2J2ZXJ0ZXIiLCJhIjoiY2w1dHM1YWl5MDRndDNkbW95aWFoNHRiZSJ9.JjyrEbdkcdCpUHLeYoP4IA&zoomwheel=false#3.26/44.24/-102.53/0/9" title="Outdoors" style="border:none; padding:2rem 0 0 0;"></iframe>
 
-## A Game of Data
+## I'm Going to Need Some Data
 
-Since 2008, Major League Baseball has gathered and made publicly available a horrifying amount of empirical data about where and how a baseball moves and behaves on the field.
+Handy for me: since 2008, Major League Baseball has gathered and made publicly available a horrifying amount of empirical data about where and how a baseball moves and behaves on the field.
 
 Every stadium has something like radar installed all around the field, which precisely tracks the movement of the baseball.
 
 *How precisely*, you probably aren't wondering?
 
-Here's the average speed, spin rate, and spin axis of every 4-Seam Fastball that Max has ever thrown:
+Enough for me to say with absolute certainty that this is the average speed, spin rate, and spin axis{% sidenote 'sn-1' "From the batter's perspective." %} of every Four-seam Fastball that Max has ever thrown:
 
 |                    |  Speed |      RPM | Spin Axis |
-| :----------------  | -----: | -------: | -------:  |
-| Four-seam Fastball | 94.337 | 2490.361 | 217.370˚  |
+|:-------------------|-------:|---------:|----------:|
+| Four-seam Fastball | 94.337 | 2490.361 |  217.370˚ |
 
-And this is just the tip of the Maxberg.
+And Max is the perfect candidate for this waste of time, too. Aside from being one of the greatest pitchers of his generation, he made his Major League debut shortly after these ball-tracking systems came online. This means that we have super granular empirical data available for every pitch he's ever thrown in pro ball.
 
-See, Max made his Major League debut shortly after these systems came online, which means that we have the benefit of having super granular empirical data available for every pitch he's ever thrown in pro ball.
+## So Let's Set Some Parameters
 
-Which got me wondering...
+I'm going to assume that Max is going to throw every pitch with the same speed, spin rate, and spin axis as he has in his career to date. He's going to repeat the first throw from his career, walk to where the ball lands, and then repeat the second throw of his career, and so on, until he's replicated all ~44,000 of his career's pitches to date.
 
-I dragged all of Max's pitching data across the Information Superhighway and ran it through the Sausagemaker[^1] in pursuit of a simple question with simple parameters:
+I'm also going to assume that he's performing this feat under these conditions:
 
-1. Suppose I teleport Max Scherzer to a pocket universe that's flat[^2], featureless, and infinite.
-2. The atmosphere is set to STP, and there's no wind.
-3. Objects don't roll; they stick to the ground exactly where they land.
-4. Max can replicate the velocity and spin of every pitch he's ever thrown.
-5. He's tasked with throwing each of his historical pitches at exactly 45° up from horizontal.
-6. After the throws the first pitch, he walks to where the ball landed.
-7. He picks the ball up and throws the second pitch.
-8. And then the third.
-9. Repeat through all ~44,000ish pitches he's ever thrown.
+| Parameter          |                 Pocket Universe |
+|:-------------------|--------------------------------:|
+| Topography         | Flat, featureless, and infinite |
+| Atmosphere         |                             STP |
+| Do objects roll?   |                            Nope |
+| Do objects bounce? |                           Never |
+| Launch inclination |                             45˚ |
 
 ## How Far Can He Go?
 
-Here's Exactly How Far
+Here's approximately/exactly how far:
 
-<iframe title="Max Scherzer's Distance Traveled by Pitch Type" aria-label="Interactive area chart" id="datawrapper-chart-SqjZd" src="https://datawrapper.dwcdn.net/SqjZd/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+| Pitch                | Count      | Mean Distance (m) | Approx. Total Distance (m) |
+|:---------------------|:-----------|------------------:|---------------------------:|
+| Four-seam Fastball   | 23,967     |            128.18 |                  3,100,000 |
+| Sinker               | 526        |            119.09 |                     62,600 |
+| Curveball            | 2593       |             97.04 |                    251,600 |
+| Change-up            | 7307       |            102.50 |                    749,000 |
+| Cut Fastball         | 1512       |            131.40 |                    199,000 |
+| Slider               | 7868       |            108.85 |                    856,500 |
+| :------------------- | :------    |    -------------: |             -------------: |
+| **Total**            | **44,023** |        **111.96** |              **5,218,700** |
 
-### Fun Facts About His Adventure
+## Peep the Repo
 
-1. Max doesn't throw his first Cutter until 2011.
+This silly little thought experiment turned out to be way harder than I thought it'd be. If you're interested in a deep dive into the code and/or watching me claw my way through a bunch of horrifying{% sidenote 'sn-3' 'To me, anyway.' %} undergraduate physics, you can find it here:
 
-2. Max has thrown only 16 intentional balls in his career, which is bonkers.[^3]
-   1. Context: There were two occasions in 2004 when Barry Bonds saw 16 intentional balls in one nine-inning game. Apples to oranges, maybe. But Intentional Walks (which are the product of Intentional Balls) are quite common.
+[Boop to Head to GitHub](https://github.com/obverter/going-for-distance/blob/master/He's%20Going%20for%20Distance.ipynb)
 
-3. Max is almost never told to throw a "Pitch Out," where the manager decides to have the pitcher throw an intentional ball for the sole purpose of giving the catcher a chance to throw out a runner who will probably steal a base. Basically: the manager almost always finds it more advantageous to let Max throw a strike at one thousand miles per hour. Max's pitch velocity and accuracy is so high that a 4-Seam Fastball in the strike zone will reliably accomplish everything that a pitch out is intended to provide: location predictability and pitch quickness so that the catcher has the best possible opportunity to throw out a stealing runner.
+But just for funsies, here's a quick look at the data I generated for just one pitch:
 
----
-
-[^3]: Intentional Balls were phased out of the game a few years ago[^4] — ostensibly to <span style="font-family:Comic Sans MS">**sPeEd uP tHe GaMe**</span>. But this doesn't change much about Max.
-
----
-
-###### Wanna see how I polished this diamond? Peep the Repo
-
-[Boop This Enormous Button to Head to GitHub](https://github.com/obverter/going-for-distance/blob/master/He's%20Going%20for%20Distance.ipynb){: .btn}
-
----
+| Key           |      Value |
+|:--------------|-----------:|
+| mph           |       95.7 |
+| theta         |       45.0 |
+| omega_rpm     |     2400.0 |
+| backspin      |       True |
+| y<sub>0</sub> |     1.7081 |
+| omega_radsec  |   251.3274 |
+| vt_msec       |    42.7725 |
+| vx            |    22.4693 |
+| vy            |    36.3953 |
+| vr_mph        |    20.7065 |
+| vr_msec       |     9.2563 |
+| spin_factor   |     0.2164 |
+| coeff_drag    |     0.0032 |
+| drag_force    |    -0.0152 |
+| coeff_lift    |     0.2298 |
+| magnus        |     1.0972 |
+| f<sub>x</sub> | -8958.1117 |
+| f<sub>y</sub> | 5147.09799 |
+| k             |     3.7846 |

@@ -23,8 +23,6 @@ Whenever I'm not being productive, I enjoy punching up dry Wikipedia articles,{%
 
 I live in the Bay Area with my dog{% sidenote "sidenote-3" "Unlike Marx, his middle name really is Danger." %} and his family.
 
-[Email me an email.](mailto:ben@obverter.com)
-
 <!-- The *Tufte-Jekyll* theme is a natural extension of the work done by [Edward Tufte](https://github.com/edwardtufte/tufte-css) and his collaborators on Github who created a CSS file that allows web writers to use the same simple and elegant style employed in his published materials.
 
 To incorporate these styles into a Jekyll theme, I have made some very slight modifications that attempt to maintain the feel of the CSS styles in his Github repo.
