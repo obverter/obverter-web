@@ -7,14 +7,13 @@ author: Ben Tyler Elliott
 published: false
 ---
 
-
-To the casual observer, baseball doesn't present itself as a particularly impressive or athletic sport. And yet — the majority of the mostly-ordinary looking folks playing televised baseball are millionaires...
+To the casual observer, baseball doesn't present itself as a particularly impressive or athletic sport. And yet, the majority of those mostly-ordinary looking folks playing televised baseball are millionaires...
 
 <!--more-->
 
 Further influencing the sport's non-athletic perception is the truth that many — if not most — professional baseball players *don't look like freakish athletes*. When a non-baseball enthusiast asks me about the game, one comment often surfaces in some form or another:
 
-***Why are these guys millionaires? None of what they're doing looks difficult. And it looks like some of these guys are in worse shape than me.***
+**Why are these guys millionaires? None of what they're doing looks difficult. And it looks like some of these guys are in worse shape than me.***
 
 And even as someone who's spent about thirty years studying the game — that perception tracks.
 
