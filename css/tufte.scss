@@ -471,7 +471,7 @@ ul.footer-links li{
 body.full-width, .content-listing, ul.content-listing li.listing{ width: 90%;
        margin-left: auto;
        margin-right: auto;
-       padding: 0% 0% 5% 0%;
+       padding: 0% 0% 2.5% 0%;
 }
 .full-width article p{
   width: 90%;
@@ -486,7 +486,7 @@ h1.hello{
   font-size: 1.4rem;
   line-height: 2.1rem;
   text-align: left;
-  margin: auto auto auto 10%;
+  margin: auto auto auto 15%;
 }
 
 h1.content-listing-header{
@@ -702,10 +702,19 @@ hr.slender {
 }
 /*-- End of Icomoon icon font section --*/
 
-.hero-container{
+.hero-container {
   position: relative;
   width: 100%;
   margin: auto auto -20% auto;
+
+  @media (max-width: 1080px) {
+    img.left {
+      width: 100%;
+      float: none;
+      margin: auto auto;
+      border-left: 0;
+    }
+  }
 }
 
 .hero-one{
@@ -801,11 +810,6 @@ hr.slender {
   //   }
   // }
 
-  @media (max-width: 880px) {
-      float: none;
-      margin: 0 auto;
-    }
-
     img.right {
       width: 100%;
       float: none;
@@ -849,13 +853,14 @@ hr.slender {
 
         .left-element {
           border: 1px gray;
-          border-style: inset;
+          border-style: groove;
           float:inline-start;
-          margin: 1rem;
+          margin: 0 1rem;
           padding: 0;
-          height: 300px;
+          height: 250px;
+          max-width: 250px;
           object-fit: cover;
-            @media (max-width: 880px) {
+            @media (max-width: 1080px) {
                 float: none;
                 margin: 0 auto;
               }
@@ -863,8 +868,8 @@ hr.slender {
 
         .right-element {
           float: inline-end;
-          margin: 1rem;
-          padding: 0 0 0 1rem;
+          margin: 0;
+          padding: 0 0 0 0;
         }
 
         .iframe {

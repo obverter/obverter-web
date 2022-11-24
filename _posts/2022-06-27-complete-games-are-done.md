@@ -47,4 +47,4 @@ But mostly for throwing 148 pitches in one outing.
 
 ## See the Repo
 
-[Here's a link](https://github.com/obverter/complete-games-are-done){: .btn} to the repo for this miniature project.
+[Here's a link](https://github.com/obverter/complete-games-are-done) to the repo for this miniature project.

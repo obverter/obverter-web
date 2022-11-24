@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Why It's (Probably) Not Too Late to Start Drawing"
-tags: [drawing, crimes against portraiture]
 author: Ben Tyler Elliott
-published: true
-image: "/assets/img/posts/art/portrait-2.png"
 image-caption: "A portrait of my dog."
+image: "/assets/img/posts/art/portrait-2.png"
+layout: post
+published: true
+tags: [drawing, crimes against portraiture]
+title: "Why It's (Probably) Not Too Late to Start Drawing"
 ---
 A few years, and then months, and then minutes ago, I decided that I wanted to learn how to draw. And the first question I've always asked myself whenever I've set out along this path has always been the same: Why?
 
