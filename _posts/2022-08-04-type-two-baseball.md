@@ -38,24 +38,22 @@ Secondly, there are no timeouts or breaks in the action in baseball. This is bec
 
 Finally, there's the fact that baseball games are, in essence, nothing but downtime. There are long pauses between pitches, and even longer pauses between innings. Most of the time the camera is scanning the crowd for anything interesting to broadcast.
 
-Even replay reviews begin with the manager holding up a hand to ask for some extra time to decide whether they're going to decide to ask the umpires to call an *entirely different* team of umpires across the fucking country who will reconsider the on-field decision and, after an arbitrary delay during which the Mystery Umpires must first search for their eyeglasses, render a final decision—even if it's the same decision.
+Even replay reviews begin with the manager holding up a hand to ask for some extra time to decide whether they're going to decide to ask the umpires to call an *entirely different* team of umpires across the fucking country who will reconsider the on-field decision and, after an arbitrary delay during which the Mystery Umpires, who are neither seen nor heard, must first search for their eyeglasses before rendering a final, capricious decision—even if it's the same decision.
 
-It's the waiting, you see. The waiting seasons the suffer, and the suffer's the spirit of Type 2 Fun.
+It's the waiting, you see. In the circle of life, it is waiting of it all that seasons the suffer, and the suffer is what moves us all—through despair and hope, through faith and love.
 
-But therein lies the its beauty, is what I'm saying.
+But therein lies the baseball's intrinsic beauty, is what I'm saying.
 
 Because in those long stretches of time, we as viewers get to daydream and imagine all sorts of possibilities...
 
-Maybe this will be the inning where everything changes and the team that's been losing all game suddenly starts hitting homeruns left and right.
+Maybe this will be the inning where everything changes and the team that's been losing all game suddenly starts socking dingers left and right.
 
 Maybe I'll find a lucrative, satisfying career.
 
 Maybe this will be the play where the our MVP catcher's left ankle is liquefied during a play at the plate.
 
-In short, baseball is the perfect sport for those moments when you don't want to do anything but don't want to miss out on anything either. It's Type 2 fun at its finest!
+In short, baseball is the perfect sport for those moments when you don't want to do anything but don't want to miss out on anything either.
 
-## Closing Thought
-
-Next time you find yourself stuck watching a baseball game against your will, take solace in the fact that you're participating in one of life's great Type 2 fun activities!
+So next time you find yourself stuck watching a baseball game against your will, take solace in the fact that you're participating in one of life's great Type 2 fun activities!
 
 And who knows? Maybe someday you'll even find yourself enjoying it...in retrospect.
