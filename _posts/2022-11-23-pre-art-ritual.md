@@ -1,6 +1,7 @@
 ---
 author: Ben Tyler Elliott
-date: 2022-11-23 11:58:47 +07:00
+date: 2022-11-23
+image-caption:
 image: "/assets/img/posts/art/hands/hand-0001.jpeg"
 layout: post
 published: true

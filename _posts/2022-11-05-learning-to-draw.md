@@ -1,6 +1,6 @@
 ---
 author: Ben Tyler Elliott
-image-caption: "A portrait of my dog."
+image-caption:
 image: "/assets/img/posts/art/portrait-2.png"
 layout: post
 published: true
