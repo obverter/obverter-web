@@ -25,7 +25,7 @@ But if you have the opportunity to inherit a workshop, that's a much better way 
 
 ## Restore Used Tools, and Then Throw Them Away
 
-There's no shame in buying used tools, especially if you're just starting out. You can find plenty of gently used options at yard sales, thrift stores, and even online. But remember to shop with your heart, not with your head. Sure, you could buy a $\$15 jack plane from Harbor Freight instead of an actual, buy-it-for-life $\$375 jack plane from Lie-Nielsen or Veritas. But why would you do that when you can barter for a jack-plane-shaped object at the flea market and then spend a couple hundred bucks on files, abrasives, solvents, and torque wrenches to slap and pound against your bargain before throwing it into the ocean? Woodworking is about the journey, not your preferred destination.
+There's no shame in buying used tools, especially if you're just starting out. You can find plenty of gently used options at yard sales, thrift stores, and even online. But remember to shop with your heart, not with your head. Sure, you could buy a $15 jack plane from Harbor Freight instead of an actual, buy-it-for-life $375 jack plane from Lie-Nielsen or Veritas. But why would you do that when you can barter for a jack-plane-shaped object at the flea market and then spend a couple hundred bucks on files, abrasives, solvents, and torque wrenches to slap and pound against your bargain before throwing it into the ocean? Woodworking is about the journey, not your preferred destination.
 
 ## Steal From Home Depot
 
