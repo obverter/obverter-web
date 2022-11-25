@@ -357,7 +357,7 @@ pre { width: 52.5%; //, pre code, p pre code are both selectors in tufte.css - t
            padding-left: 2.5%;
            overflow-x: auto; }
 
-.fullwidth, li.listing div{ max-width: 90%; }
+.fullwidth, li.listing div{ max-width: 100%; }
 
 .full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
 
@@ -468,7 +468,7 @@ ul.footer-links li{
 
 //Full width page styling stuff
 
-body.full-width, .content-listing, ul.content-listing li.listing{ width: 90%;
+body.full-width, .content-listing, ul.content-listing li.listing{ width: 87.5%;
        margin-left: auto;
        margin-right: auto;
        padding: 0% 0% 2.5% 0%;
@@ -868,7 +868,7 @@ hr.slender {
 
         .right-element {
           float: inline-end;
-          margin: 0;
+          margin: auto 0.25rem;
           padding: 0 0 0 0;
         }
 
