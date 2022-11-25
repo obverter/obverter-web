@@ -1,6 +1,6 @@
 ---
 author: Ben Tyler Elliott
-date: 2022-07-25 11:58:47 +07:00
+date: 2022-09-23
 image: "/assets/img/posts/going-for-distance/maxinator.png"
 layout: post
 published: true

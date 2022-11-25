@@ -1,6 +1,6 @@
 ---
 author: Ben Tyler Elliott
-date: 2022-08-04 12:00:00 -0800
+date: 2022-10-04 12:00:00 -0800
 image: "/assets/img/posts/type-two-baseball/type-two-baseball.jpeg"
 layout: post
 published: true

@@ -26,6 +26,7 @@ $$
  \right)
 $$
 ```
+
 yields this:
 
 $$
@@ -45,7 +46,6 @@ $$
 \gamma^{*}& \delta
 \end{matrix}
 $$
-
 
 $$
 \begin{bmatrix}
@@ -86,7 +86,7 @@ However, a problem still exists for inline matrix notation, from an example [her
 
 A matrix in text must be set smaller: $$ \bigl(\begin{smallmatrix}a & b \\ c & d\end{smallmatrix} \bigr) $$ to not increase leading in a portion of text. The way this inline matrix is written is: ```$$ \bigl(\begin{smallmatrix}a & b \\ c & d\end{smallmatrix} \bigr) $$```
 
-## Edge Case 1 from Quxiaofeng:
+## Edge Case 1 from Quxiaofeng
 
 ### No blank lines between Markdown list items
 
@@ -124,6 +124,7 @@ It will create an html tag structure like this:
    </li>
 </ul>
 ```
+
 Which *totally* goofs up the layout CSS.
 
 However, if your Markdown is this:
@@ -143,7 +144,6 @@ It will create a tag structure like this:
 ```
 
 Here is the same content as above, with a blank line separating the list items. Notice how the sidenotes get squashed into the main content area:
-
 
 ### Remarks on ADMM version 2 - **one blank line** between Markdown list items
 
