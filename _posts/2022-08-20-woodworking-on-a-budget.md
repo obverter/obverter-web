@@ -9,7 +9,7 @@ tags: [woodworking]
 title: You Don't Need a Yacht to Build a Table
 ---
 
-A lot of people think that woodworking is expensive. They see all the big power tools and intricate projects and they assume that it's not something the average person can do. I'm here to tell you that those people are wrong. Woodworking is a perfectly viable hobby for anyone, even if you're on a tight budget. Here's how you can get started without breaking the bank.
+A lot of people think that woodworking is expensive. They see all the big power tools and intricate projects and they assume that it's not something the average person can do. I'm here to tell you that those people are wrong. Here's how you can get started without breaking the bank.
 
 <!--more-->
 
