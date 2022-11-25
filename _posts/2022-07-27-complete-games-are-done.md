@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Complete Games Are Almost Done"
+title: "Complete Games Are Just About Done"
 tags: [baseball, python/pandas]
 image: "/assets/img/posts/complete-games-are-done/complete-games.png"
 author: Ben Tyler Elliott
