@@ -4,7 +4,7 @@ date: 2022-09-13
 image: "/assets/img/posts/blog-topics-are-hard/blog-topics-are-hard.png"
 layout: post
 published: True
-repo: "https://github.com/obverter/"
+repo:
 tags: [writing]
 title: Recursive Blog Posts Are Easier Than Originality
 ---

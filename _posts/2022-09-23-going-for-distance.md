@@ -17,7 +17,9 @@ And then to San Francisco.
 
 ## Going For Distance
 
-I was watching Scherzer pitch and I wondered: how far would Max travel if he exactly replicated the speed and spin of every pitch in his career to date, but instead went for maximum distance? {% marginnote 'mn-1' "These are the things I wonder about while I'm <a href=\"http://www.obverter.com/type-two-baseball/\">watching baseball</a>." %}
+{% marginnote 'mn-1' "These are the things I wonder about while I'm <a href=\"http://www.obverter.com/type-two-baseball/\">watching baseball</a>." %} I was watching Scherzer pitch and I wondered: how far would Max travel if he exactly replicated the speed and spin of every pitch in his career to date, but instead went for maximum distance?
+
+Like, what if instead of throwing each of those pitches toward the strike zone, he instead yote{% sidenote 'sn-1' 'yote. *v.* simple past tense of **yeet**.' %} them toward the horizon at a 45˚ angle, and then walked to where the ball landed, picked it up, and uncorked the next one, and so on?
 
 TL;DR — About this far:
 
@@ -70,6 +72,19 @@ Here's approximately/exactly how far:
 | **Total**            | **44,023** |        **111.96** |              **5,218,700** |
 
 About 5.2 million meters, or 3.2 million yards, or 1.8 million miles.
+
+Wait, that can't be right.
+
+$$
+\begin{array}{rcl}
+1000\ m & = & 1\ km \\
+ & = & 0.6214 \ mile \\
+\end{array}
+$$
+
+$$ \frac{5.2\times10^6}{1000}\times 0.6214 = 3231.28 $$
+
+About 3231.28 miles, more or less.
 
 Or, roughly the distance from Cleveland to Seattle to San Francisco.
 

@@ -4,7 +4,7 @@ date: 2022-08-20
 image: "/assets/img/posts/woodworking-on-a-budget/woodworking-on-a-budget.png"
 layout: post
 published: true
-repo: "https://github.com/obverter/"
+repo:
 tags: [woodworking]
 title: You Don't Need a Yacht to Build a Table
 ---

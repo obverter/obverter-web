@@ -4,7 +4,7 @@ date: 2022-10-20
 image: "/assets/img/posts/data-science-for-the-disenchanted/data-science-for-the-disenchanted.jpeg"
 layout: post
 published: true
-repo: "https://github.com/obverter/"
+repo:
 tags: [data science]
 title: Data Science for the Disenchanted
 ---

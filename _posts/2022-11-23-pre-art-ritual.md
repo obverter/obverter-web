@@ -5,7 +5,7 @@ image-caption:
 image: "/assets/img/posts/art/hands/hand-0001.jpeg"
 layout: post
 published: true
-repo: "https://github.com/obverter/"
+repo:
 tags: [drawing, crimes against portraiture]
 title: On Thankfulness and Ritual
 ---
