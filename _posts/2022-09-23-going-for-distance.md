@@ -4,7 +4,7 @@ date: 2022-09-23
 image: "/assets/img/posts/going-for-distance/maxinator.png"
 layout: post
 published: true
-repo: "https://github.com/obverter/going-for-distance"
+repo: "https://github.com/obverter/going-for-distance/blob/master/He's%20Going%20for%20Distance.ipynb"
 tags: [baseball, python/pandas]
 title: Max Scherzer Could Have Thrown a Baseball Across the Country
 ---
@@ -88,13 +88,15 @@ About 3231.28 miles, more or less.
 
 Or, roughly the distance from Cleveland to Seattle to San Francisco.
 
-## Peep the Repo
+## Dive Into the Notebook
 
-This silly little thought experiment turned out to be way harder than I thought it'd be. If you're interested in a deep dive into the code and/or watching me claw my way through a bunch of horrifying{% sidenote 'sn-3' 'To me, anyway.' %} undergraduate physics, you can find it here:
+This silly little thought experiment turned out to be way harder than I thought it'd be. That said, working this out was one helluva good time, and I learned quite a bit about Python classes, event functions, and simulation optimization.
 
-[Boop to Head to GitHub](https://github.com/obverter/going-for-distance/blob/master/He's%20Going%20for%20Distance.ipynb)
+If you're interested in a deep dive into the code and/or watching me claw my way through a bunch of horrifying{% sidenote 'sn-3' 'To me, anyway.' %} undergraduate physics, you can see me show my work here:
 
-But just for funsies, here's a quick look at the data I generated for just one pitch:
+[Boop Here to See the Notebook](https://github.com/obverter/going-for-distance/blob/master/He's%20Going%20for%20Distance.ipynb)
+
+But if you don't care about any of that, here's a fun look at the data I synthesized for just one pitch:
 
 | Key           |      Value |
 |:--------------|-----------:|
