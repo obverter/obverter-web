@@ -24,7 +24,7 @@ title: Obverter
     {% for post in site.posts %}
     <hr class="slender">
     <li class="listing">
-      <img class="roll-image left-element" src="{{ post.image }}" alt="{{ post.title }}">
+      <a href="{{ post.url | prepend: site.baseurl }}"><img class="roll-image left-element" src="{{ post.image }}" href="{{ post.url | prepend: site.baseurl }}" alt="{{ post.title }}"></a>
       <div class="right-element">
             <a href="{{ post.url | prepend: site.baseurl }}">
               <div>
