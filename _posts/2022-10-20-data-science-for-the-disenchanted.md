@@ -31,7 +31,13 @@ Finally, you need to gain some domain expertise. This can be achieved most readi
 
 ## What If I Don't Want to Do Any of That?
 
-Like many disenchanted millennials, disillusioned Gen-Xers, disabused Zoomers, and dispeptic Boomers, you may be feeling a little discouraged these days. Maybe you're struggling to find your place in the workforce or pay off your student loans. Maybe it's time for a career change. Or maybe you've just always wanted to learn how to `computer` like those hackers on NCIS:DUI.
+Like many disenchanted millennials, disillusioned Gen-Xers, disabused Zoomers, and dispeptic Boomers, you may be feeling a little discouraged these days. Maybe you're struggling to find your place in the workforce or pay off your student loans. Maybe it's time for a career change. Or maybe you've just always wanted to learn how to
+
+```python
+computer
+```
+
+like those hackers on NCIS:DUI.
 
 And so you Google around, and you find all sorts of articles like this one that say that all you have to do is dedicate the next few years of your life to a curriculum, and then you'll be ready to get started.
 
@@ -65,7 +71,7 @@ And then do it again, and again, and again, forever.
 
 ## But Nobody on NCIS:DUI Uses Excel
 
-Look, data science is a rapidly growing field with immense potential for those who are willing to put in the work. And the work involves nothing more than learning how to investigate questions that you don't know how to investigate. Programming languages like ~~R and ~~Python are probably going to end up in your toolbox at some point, since ~~these~~ this language~~s~~ will allow you to manipulate data sets and run statistical analysis. But nobody needs to start there.
+Look, data science is a rapidly growing field with immense potential for those who are willing to put in the work. And the work involves nothing more than learning how to investigate questions that you don't know how to investigate. Programming languages like ~~R and~~ Python are probably going to end up in your toolbox at some point, since ~~these~~ this language~~s~~ will allow you to manipulate data sets and run statistical analysis. But nobody needs to start there.
 
 ## Experience the Domain
 
