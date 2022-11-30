@@ -64,4 +64,6 @@ And yet the game remains, as ever, marking time. For me it remains as the season
 
 We, its audience and its prisoner, can do little more but acknowledge that the game remains as a room, it gilded and familiar, in which we can sit for a while and enjoy those moments when we don't want to do anything, but don't want to miss out on anything either.
 
-So come inside with me and crack a beverage. Grab a seat near the window and admire this place, this life, this marvelous room we might share again for a while, or forever, and get comfy. Buy a cap. Find a friend. Doors lock from the outside.
+So come inside with me and crack a beverage. Grab a seat near the window and admire this place, this life, this marvelous room we might share again for a while, or forever. Adjust your cap, smack your mitt, and keep your head on a swivel for that foul ball that will someday come sailing our way.
+
+Doors lock from the outside.
