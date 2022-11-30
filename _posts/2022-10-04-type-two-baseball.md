@@ -64,6 +64,10 @@ And yet the game remains, as ever, marking time. For me it remains as the season
 
 We, its audience and its prisoner, can do little more but acknowledge that the game remains as a room, it gilded and familiar, in which we can sit for a while and enjoy those moments when we don't want to do anything, but don't want to miss out on anything either.
 
-So come inside with me and crack a beverage. Grab a seat near the window and admire this place, this life, this marvelous room we might share again for a while, or forever. Buy a hot dog if your credit score is good enough, and complain about it to a neighbor. Stand for the anthem, or don't, but be decisive and somber in owning that choice. Cue fighter jets flying low and loud, colored smoke, Missing Man formation in remembrance of something collectively memorable. Nod your head once or twice, look around. Replace and/or adjust your cap and smack your mitt a couple two, three good pumps, and resolve to your head on a swivel for that foul ball that will someday come sailing our way.
+So come inside with me and crack a beverage. Grab a seat near the window and admire this place, this life, this marvelous room we might share again for a while, or forever. Buy a hot dog if your credit score is good enough, and complain about it to a neighbor.
+
+Stand for the anthem, or don't, but be decisive and somber in owning that choice. Cue fighter jets flying low and loud, colored smoke, Missing Man formation in remembrance of something collectively memorable.
+
+Nod your head once or twice, look around. Replace and/or adjust your cap and smack your mitt a couple two, three good pumps, and resolve to keep your head on a swivel for that foul ball that will someday come sailing our way.
 
 Doors lock from the outside.
