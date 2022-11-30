@@ -26,7 +26,7 @@ It's a long hike up a Sisyphean mountain.
 
 It's every not-your-toddler's birthday party anyone has ever been to.
 
-It's a shambling, non-verbal-drunk vision quest through the 3 A.M. streets of London in June 2008 and trying your hostel key on the front door of every house on the wrong block.
+It's a shambling-drunk vision quest through the 3 A.M. streets of London in June 2008 and trying your hostel key on the front door of every house on the wrong block.
 
 It's not the most thrilling way to spend your time, basically. But there is a certain satisfaction that comes from just getting through it.
 
@@ -38,9 +38,9 @@ Secondly, there are no timeouts or breaks in the action in baseball. This is bec
 
 Finally, there's the fact that baseball games are, in essence, nothing but downtime. There are long pauses between pitches, and even longer pauses between innings. Most of the time the camera is scanning the crowd for anything interesting to broadcast.
 
-Even replay reviews begin with the manager holding up a hand to ask for some extra time to decide whether they're going to decide to ask the umpires to call an *entirely different* team of umpires across the fucking country who will reconsider the on-field decision and, after an arbitrary delay during which we can only assume that the Mystery Umpires, who are neither seen nor heard, must first search for their eyeglasses before considering the play in question and rendering a final, capricious decision—even if it's the same decision as the first umpires, who are still standing right there on the field, and who are, in fact, the only ones who used to be able to adjudicate such matters.
+Even replay reviews begin with the manager holding up a hand to ask for some extra time to decide whether they're going to decide to ask the umpires to call an *entirely different* team of umpires across the fucking country who will reconsider the on-field decision and, after an arbitrary delay during which we can only assume that the Mystery Umpires, who are neither seen nor heard, must first search for their eyeglasses before considering the play in question and rendering a final, capricious decision—even if it's the same decision as the first umpires, who are still standing there, just there, doltish and gassy, two forestalled zeppelins without an arrival gate adrift above their destination, exuding ennui and a certain comportment for which English does not have a word but perhaps best could be described as a frigid sort of beige, just standing there waiting, the radio vamping, filling time, waiting with words while the umpires stand there, just where they've stood, they and we each again as disparate, deaf-blind notes in that atonal dirge we comprise, it wordless and haunting, far-flung, us each together alone as endling whales beneath the cold, sunless sea of longing for those unappreciated days when decisions were decisions, when consequences were exactly that.
 
-It's the waiting, you see. In the circle of life, it is the abject waiting of it all that seasons our suffer, and that suffer is what moves us all—through despair and hope, and through faith and love, until, at last, we find our place on the Path unwinding.
+It's the waiting, you see. In the circle of life, it is the abject waiting of it all that seasons our suffer, and that suffer is what moves us all—through despair and hope, through faith and love, until, at last, we find our place on the Path unwinding.
 
 But that is baseball's intrinsic beauty, is I guess what I'm saying.
 
@@ -50,10 +50,10 @@ Maybe this will be the inning where everything changes, and the team that's been
 
 Maybe I'll find a lucrative, satisfying career.
 
-Maybe this will be the moment where the our MVP catcher's left ankle and shin are liquefied during a play at the plate.
+Maybe this will be the moment where the our MVP catcher's left ankle and shin will be liquefied when he gets trucked on a play at the plate.
 
 In short, baseball is the perfect sport for those moments when you don't want to do anything but don't want to miss out on anything either.
 
-So next time you find yourself stuck watching a baseball game against your will, take solace in the fact that you're participating in one of life's great Type 2 fun activities!
+So next time you find yourself stuck watching a baseball game against your will, take solace in the fact that you're participating in one of life's great Type 2 fun activities.
 
-And who knows? Maybe someday you'll even find yourself enjoying it...in retrospect.
+And who knows? Maybe someday you'll even find yourself enjoying it... in retrospect.
