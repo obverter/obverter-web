@@ -9,7 +9,7 @@ tags: [data science]
 title: Data Science for the Disenchanted
 ---
 
-Just because you may have given up on your childhood dreams of winning a Fields Medal doesn't mean you have to give up on a data-driven career. There's a whole field and industry for folks like us: people who can calculate a restaurant tip without crying, and who are passionate about finding answers that aren't already on Wikipedia. It's called Data Science, and you don't have to know anything about data or science to get started.
+Just because you may have given up on your childhood dreams of winning a Fields Medal doesn't mean you have to give up on a data-driven career. There's a whole field and industry for folks like us: overeducated liberal arts majors who are passionate about finding answers that aren't already on Wikipedia.
 
 <!--more-->
 

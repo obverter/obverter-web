@@ -56,14 +56,14 @@ Maybe.
 
 Maybe—.
 
-Maybe...
+*Maybe...*
 
 ## Exeunt Omnes
 
-And yet the game remains, as ever, marking time. For me it remains as the season about which my years will revolve. For you, I don't care. Not because I don't care{% sidenote 'sn-2' "Which is true." %}, but because there's nothing that you, or I, or Rob Manfred{% sidenote 'sn-3' "Major League Baseball's current Commissioner, upon whom I wish no specific ill will, but whose tenure's end I will celebrate by setting off fireworks during the nearest and soonest Little League game I can find." %} and can do to change its torpid nature.
+And yet the game remains, as ever, marking time. For me it remains as the season about which my years will revolve. For you, I don't care. Not because I don't care{% sidenote 'sn-2' "Which is true." %}, but because there's nothing that you, or I, or Rob Manfred{% sidenote 'sn-3' "Major League Baseball's current Commissioner, upon whom I wish no specific ill will, but whose tenure's end I will celebrate by setting off fireworks during the nearest and soonest Little League game I can find." %} and can do to change the game's torpid nature.
 
 We, its audience and its prisoner, can do little more but acknowledge that the game remains as a room, it gilded and familiar, in which we can sit for a while and enjoy those moments when we don't want to do anything, but don't want to miss out on anything either.
 
-So come inside with me and crack a beverage. Grab a seat near the window and admire this place, this life, this marvelous room we might share again for a while, or forever. Adjust your cap, smack your mitt, and keep your head on a swivel for that foul ball that will someday come sailing our way.
+So come inside with me and crack a beverage. Grab a seat near the window and admire this place, this life, this marvelous room we might share again for a while, or forever. Buy a hot dog if your credit score is good enough, and complain about it to a neighbor. Stand for the anthem, or don't, but be decisive and somber in owning that choice. Cue fighter jets flying low and loud, colored smoke, Missing Man formation in remembrance of something collectively memorable. Nod your head once or twice, look around. Replace and/or adjust your cap and smack your mitt a couple two, three good pumps, and resolve to your head on a swivel for that foul ball that will someday come sailing our way.
 
 Doors lock from the outside.
