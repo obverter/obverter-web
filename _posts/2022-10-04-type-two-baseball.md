@@ -68,6 +68,6 @@ So come inside with me and crack a beverage. Grab a seat near the window and adm
 
 Stand for the anthem, or don't, and/or remove your cap, or don't—but be decisive and somber in owning those choices, and save the proselytizing football season. Cue fighter jets scorching low and loud. Colored smoke. Missing Man formation in remembrance of something collectively memorable.
 
-Nod your head once or twice, look around. Clap if needs be. Replace and/or adjust your cap and smack your mitt a couple two, three good pumps, and resolve to keep your head on a swivel for that foul ball that must someday come sailing our way.
+Nod your head once or twice, look around. Clap if needs be. Replace and/or adjust your cap and smack your mitt a couple two, three good pumps, and resolve to keep your head on a swivel for the foul ball that must surely, probably, someday come sailing our way.
 
 Doors lock from the outside.
