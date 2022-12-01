@@ -66,7 +66,7 @@ We, its audience and its prisoner, can do little more than acknowledge that the 
 
 So come inside with me and crack a beverage. Grab a seat near the window and admire this place, this life, this marvelous room we might share again for a while, or forever. Buy a hot dog if your credit score is good enough, and complain about it to a neighbor.
 
-Stand for the anthem, or don't, and/or remove your cap, or don't—but be decisive and somber in owning those choices, and save the proselytizing football season. Cue fighter jets scorching low and loud. Colored smoke. Missing Man formation in remembrance of something collectively memorable.
+Stand for the anthem, or don't, and/or remove your cap, or don't—but be decisive and somber in owning those choices, and save the proselytizing for football season. Cue fighter jets scorching low and loud. Colored smoke. Missing Man formation in remembrance of something collectively memorable.
 
 Nod your head once or twice, look around. Clap if needs be. Replace and/or adjust your cap and smack your mitt a couple two, three good pumps, and resolve to keep your head on a swivel for the foul ball that must surely, probably, someday come sailing our way.
 
